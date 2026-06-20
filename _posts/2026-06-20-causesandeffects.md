@@ -1,15 +1,13 @@
 ---
 layout: post
-title: "Why Do People Use Skin-Whitening Products?"
+title: "ELITS Type: Causes(reasons) & Effects"
 date: 2026-06-20
 ---
 
- # Problem and Causes 
 
+# In this modern world,there are a number of skin-whitening products available in the market. State the reasons why people are using these products? Discuss the possible negative outcomes of using these products.
 
-## In this modern world,there are a number of skin-whitening products available in the market. State the reasons why   people are using these products? Discuss the possible negative outcomes of using these products.
-
-### Write an essay of about 250 words on the following topics.
+## Write an essay of about 250 words on the following topics.
 
 
 Nowadays, there are many companies in the market who are selling different types of skin-whitening products. This essay will discuss why so many people are buying these products and what are the harmful effects of using these creams.
@@ -21,9 +19,9 @@ Furthermore, many people are suffering from the negative outcomes of these beaut
 To sum up, there are different varieties of fairness creams which are sold in the market. In some communities, people think that a fair person is rich and attractive so they buy these products in large quantities. However, this is causing a lot of problems in the world. My advice to those people is to educate themselves and their families to change their orthodox thinking.
 
 
-## With the advancement of technology, social interaction among people has affected to a greater extent. What are the reasons of reduced social interaction? Suggest whether this would lead to a positive or negative effect in the future.
+# With the advancement of technology, social interaction among people has affected to a greater extent. What are the reasons of reduced social interaction? Suggest whether this would lead to a positive or negative effect in the future.
 
-### Write an essay of about 250 words on the following topics.
+## Write an essay of about 250 words on the following topics.
 
 In the modern world, technologies are improving day by day so most of the people are interacting less with each other. This essay will discuss what are the reasons for reduced social interaction and what impact it will have on the society.
 
