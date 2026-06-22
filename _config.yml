@@ -29,6 +29,7 @@ github_username:  RXHXD
 
 # Build settings
 theme: minima
+future: false
 # plugins:
  #  - jekyll-feed
 
