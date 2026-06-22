@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ELITS Type: Advantages and Disadvantages"
-date: 2026-06-23
+date: 2026-06-22
 ---
 
 # Internet has completely transformed the way information is shared but this has led to many serious problems. What are the problems being faced due to this? Suggest some possible solutions for dealing with these problems.

@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "ELITS Type: Advantages and Disadvantages"
-date: 2026-06-22
+date: 2026-06-23
 ---
 
 # According to some people, it would be better if industries are established in regions outside the urban area. Discuss its advantages and disadvantages.
