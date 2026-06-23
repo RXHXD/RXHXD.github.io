@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ELITS Type: Advantages and Disadvantages"
+title: "Advantages and Disadvantages"
 date: 2026-06-23
 ---
 

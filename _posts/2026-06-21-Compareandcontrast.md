@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ELITS Type: Compare and Contrast"
+title: "Compare and Contrast"
 date: 2026-06-21
 ---
 

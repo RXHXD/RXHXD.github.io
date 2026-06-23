@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "ELITS Type: Causes(reasons) & Effects"
+title: "Causes(reasons) & Effects"
 date: 2026-06-20
 ---
 
