@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Advantages and Disadvantages"
-date: 2026-06-23
+category: "Advantages and Disadvantages"
 ---
 
 # According to some people, it would be better if industries are established in regions outside the urban area. Discuss its advantages and disadvantages.

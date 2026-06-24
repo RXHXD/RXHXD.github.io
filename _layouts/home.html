@@ -7,24 +7,28 @@ layout: default
     <h1 class="page-heading">{{ page.title }}</h1>
   {%- endif -%}
   {{ content }}
-  {%- if site.posts.size > 0 -%}
-    <h2 class="post-list-heading">{{ page.list_title | default: "ELITS Essay Types" }}</h2>
-    <ul class="post-list">
-      {%- for post in site.posts -%}
-      <li>
-        {%- assign date_format = site.minima.date_format | default: "%b %-d, %Y" -%}
-        <span class="post-meta">{{ post.date | date: date_format }}</span>
-        <h3>
-          <a class="post-link" href="{{ post.url | relative_url }}">
-            {{ post.title | escape }}
-          </a>
-        </h3>
-        {%- if site.show_excerpts -%}
-          {{ post.excerpt }}
-        {%- endif -%}
-      </li>
-      {%- endfor -%}
-    </ul>
-  {%- endif -%}
 
+  {%- if site.essays.size > 0 -%}
+    <div class="home-intro">
+      <p>A collection of practice essays covering common essay types — argumentative, comparative, problem-solution, and advantage-disadvantage formats. Written as part of an ongoing writing practice.</p>
+    </div>
+
+    {%- assign grouped_essays = site.essays | group_by: "category" -%}
+    {%- for group in grouped_essays -%}
+      <section class="essay-category">
+        <h2 class="category-heading">{{ group.name | default: "Uncategorized" }}</h2>
+        <div class="card-grid">
+          {%- for essay in group.items -%}
+            <a class="essay-card" href="{{ essay.url | relative_url }}">
+              <h3 class="card-title">{{ essay.title | escape }}</h3>
+              {%- if site.show_excerpts -%}
+                <p class="card-excerpt">{{ essay.excerpt | strip_html | truncatewords: 20 }}</p>
+              {%- endif -%}
+              <span class="card-link">Read essay →</span>
+            </a>
+          {%- endfor -%}
+        </div>
+      </section>
+    {%- endfor -%}
+  {%- endif -%}
 </div>

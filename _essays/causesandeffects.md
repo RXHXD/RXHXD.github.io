@@ -1,9 +1,7 @@
 ---
-layout: post
 title: "Causes(reasons) & Effects"
-date: 2026-06-20
+category: "Causes and Effects"
 ---
-
 
 # In this modern world,there are a number of skin-whitening products available in the market. State the reasons why people are using these products? Discuss the possible negative outcomes of using these products.
 

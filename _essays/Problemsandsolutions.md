@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Problems and Solutions"
-date: 2026-06-22
+category: "Problems and Solutions"
 ---
 
 # Internet has completely transformed the way information is shared but this has led to many serious problems. What are the problems being faced due to this? Suggest some possible solutions for dealing with these problems.

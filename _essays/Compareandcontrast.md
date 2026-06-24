@@ -1,7 +1,6 @@
 ---
-layout: post
 title: "Compare and Contrast"
-date: 2026-06-21
+category: "Compare and Contrast"
 ---
 
 # Some people think that learning online is more efficient. However, according to some other people, studying from books is still the preferred method. Which is the better method of learning out of the two?
